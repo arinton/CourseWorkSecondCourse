@@ -1,0 +1,11 @@
+#pragma once
+#include "Header.h"
+void Read();
+void Save();
+void ShowData();
+void Add();
+void Edit();
+void Delete();
+void Find();
+void Sort();
+void AveragePrice();
